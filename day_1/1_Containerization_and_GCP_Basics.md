@@ -35,7 +35,7 @@ Containerization and Google Cloud Platform (GCP) Basics are foundational element
 - **Innovation**: Access to Google’s innovative technologies in AI, machine learning, and analytics can significantly enhance data processing and analysis capabilities.
 
 **Image References**:
-- GCP Infrastructure: ![GCP Infrastructure](https://cloud.google.com/images/products/diagrams/cloud-infrastructure-services.png)
+- GCP Infrastructure: ![GCP Infrastructure](https://static.packt-cdn.com/products/9781788837675/graphics/assets/23d1d5bf-3655-464e-964c-96be3a490893.png)
 
 ## Relevance in Data Engineering
 
@@ -45,3 +45,5 @@ Understanding and applying containerization and GCP basics are crucial for data 
 - Leverage cloud services for enhanced data processing, storage, and analytics capabilities.
 - Implement infrastructure as code for repeatable and automated deployment of data infrastructure.
 - Orchestrate complex workflows and manage dependencies in data processing tasks efficiently.
+
+By mastering these areas, a Data Engineer can build robust, scalable, and highly available data ecosystems that power analytics and decision-making processes within an organization.
