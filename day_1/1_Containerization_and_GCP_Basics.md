@@ -16,7 +16,7 @@ Key Concepts:
 - **Images:** Read-only templates used to build containers. They are built from Dockerfiles and stored in a registry.
 - **Docker Compose:** A tool for defining and running multi-container Docker applications. With a single command, you can create and start all the services defined in a `docker-compose.yml` file.
 
-![Docker Workflow](https://docs.docker.com/engine/images/architecture.svg)
+![Docker Workflow](https://docs.docker.com/get-started/images/docker-architecture.webp)
 
 ### Google Cloud Platform (GCP)
 Google Cloud Platform is a suite of cloud computing services that runs on the same infrastructure that Google uses internally for its end-user products, such as Google Search, Gmail, file storage, and YouTube. GCP offers a broad range of services covering compute, storage, networking, big data, machine learning, and the internet of things (IoT), as well as cloud management, security, and developer tools.
