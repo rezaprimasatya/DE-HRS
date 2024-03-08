@@ -1,6 +1,7 @@
 Docker Compose is a tool for defining and running multi-container Docker applications. For Data Engineers, Docker Compose facilitates the orchestration of complex data pipelines and services by allowing the configuration of multiple containers to work together in a cohesive environment. This is particularly useful for integrating various components like databases, ETL tools, data processing applications, and analytics platforms.
 
 ## Docker Compose Essentials
+- Docker Compose: ![Docker Compose](https://www.mundodocker.com.br/wp-content/uploads/2017/02/compose_swarm.png)
 
 ### Key Concepts
 

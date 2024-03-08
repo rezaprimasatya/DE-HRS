@@ -40,8 +40,8 @@ Google Cloud Platform (GCP) provides a robust infrastructure for building, testi
 For Data Engineer Experts, GCP's big data services provide scalable solutions for processing and analyzing massive datasets. GCP simplifies the management of data infrastructure, enabling engineers to focus on deriving insights and value from data rather than on maintaining the underlying systems.
 
 **Image References**:
-- BigQuery: ![BigQuery](https://cloud.google.com/images/products/bigquery/google-bigquery-logo.svg)
-- Cloud Storage: ![Cloud Storage](https://cloud.google.com/images/products/storage/google-cloud-storage.svg)
+- BigQuery: ![BigQuery](https://cloud.google.com/static/bigquery/images/bigquery-architecture-diagram.svg)
+- Cloud Storage: ![Cloud Storage](https://cloud.google.com/storage?hl=en)
 
 Utilizing GCP allows data engineers to:
 - Deploy scalable big data solutions quickly.

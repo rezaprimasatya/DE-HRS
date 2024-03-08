@@ -81,7 +81,7 @@ docker rmi my-python-app
 
 ### Image References
 
-- Docker Architecture: ![Docker Architecture](https://docs.docker.com/engine/images/architecture.svg)
+- Docker Architecture: ![Docker Architecture](https://res.cloudinary.com/practicaldev/image/fetch/s--C93o2uY6--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/qh6appefgit5x16u8q5i.png)
 
 ### Relevance in Data Engineering
 

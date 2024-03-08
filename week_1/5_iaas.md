@@ -1,5 +1,7 @@
 Docker-compose is an essential tool for Data Engineers, allowing the definition and running of multi-container Docker applications. With a single command, you can configure and start all the services from a configuration file, usually `docker-compose.yml`. This tool simplifies the complexity of managing applications that involve multiple Docker containers, making it ideal for local development, testing, and CI/CD processes. Here's how Docker-compose fits into the data engineering workflow, including a key example to illustrate its utility.
 
+- Docker IaaS: ![IaaS](https://jsm85.github.io/assets/articles/21/iaas.png)
+
 ## Docker-compose for Integrating Services
 
 **Relevance in Data Engineering**: Data engineering often requires the integration of multiple services, such as databases, analytics platforms, and processing engines, each running in its container. Docker-compose enables these services to be linked together, ensuring they can easily communicate with each other, share data, and scale as needed. This capability is crucial for creating reproducible data pipelines and environments.
